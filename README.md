@@ -27,8 +27,11 @@ This project explores the application of analog computing in the simulation of m
 2. Open MATLAB and navigate to the cloned repository directory.
 
 3. Run the simulation files in MATLAB Simulink:
-   - `single_pendulum.slx`
-   - `double_pendulum.slx`
+   - `final_single_pendulum_sim.slx`
+   - `final_double_sim.slx`
+   - 'real_pendulum.slx'
+   - 'real_double_pendulum.slx'
+     
 
 
 4. Execute the analysis scripts to compare the results of ideal and real circuit simulations.
